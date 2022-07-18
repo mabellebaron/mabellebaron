@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá, seja bem-vindo ao meu GitHub. 👋
 
-<!--
-**mabellebaron/mabellebaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏽‍💻 Sales Support na Wayon IT Solutions.
+- 📚 Cursando 2° Semestre de Análise e Desenvolvimento de Sistemas.
+- 📍 Osasco, SP.
+- 💭 “A imaginação é mais importante que o conhecimento. O conhecimento é limitado, enquanto a imaginação abraça o mundo inteiro, estimulando o progresso, e dando origem à evolução.”
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/mabelle-baron-5893951a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
+ 
+</div>
