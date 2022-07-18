@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo ao meu GitHub. 👋
+## Olá, seja bem-vindo ao meu GitHub. 
 
 - 👩🏽‍💻 Sales Support na Wayon IT Solutions.
 - 📚 Cursando 2° Semestre de Análise e Desenvolvimento de Sistemas.
